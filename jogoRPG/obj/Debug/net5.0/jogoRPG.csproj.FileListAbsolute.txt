@@ -1,0 +1,16 @@
+C:\05ProjetoDioCSharp\jogoRPG\bin\Debug\net5.0\jogoRPG.exe
+C:\05ProjetoDioCSharp\jogoRPG\bin\Debug\net5.0\jogoRPG.deps.json
+C:\05ProjetoDioCSharp\jogoRPG\bin\Debug\net5.0\jogoRPG.runtimeconfig.json
+C:\05ProjetoDioCSharp\jogoRPG\bin\Debug\net5.0\jogoRPG.runtimeconfig.dev.json
+C:\05ProjetoDioCSharp\jogoRPG\bin\Debug\net5.0\jogoRPG.dll
+C:\05ProjetoDioCSharp\jogoRPG\bin\Debug\net5.0\ref\jogoRPG.dll
+C:\05ProjetoDioCSharp\jogoRPG\bin\Debug\net5.0\jogoRPG.pdb
+C:\05ProjetoDioCSharp\jogoRPG\obj\Debug\net5.0\jogoRPG.csproj.AssemblyReference.cache
+C:\05ProjetoDioCSharp\jogoRPG\obj\Debug\net5.0\jogoRPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\05ProjetoDioCSharp\jogoRPG\obj\Debug\net5.0\jogoRPG.AssemblyInfoInputs.cache
+C:\05ProjetoDioCSharp\jogoRPG\obj\Debug\net5.0\jogoRPG.AssemblyInfo.cs
+C:\05ProjetoDioCSharp\jogoRPG\obj\Debug\net5.0\jogoRPG.csproj.CoreCompileInputs.cache
+C:\05ProjetoDioCSharp\jogoRPG\obj\Debug\net5.0\jogoRPG.dll
+C:\05ProjetoDioCSharp\jogoRPG\obj\Debug\net5.0\ref\jogoRPG.dll
+C:\05ProjetoDioCSharp\jogoRPG\obj\Debug\net5.0\jogoRPG.pdb
+C:\05ProjetoDioCSharp\jogoRPG\obj\Debug\net5.0\jogoRPG.genruntimeconfig.cache
